@@ -5,3 +5,4 @@ Berikut adalah contoh program deteksi kantuk (drowsiness detection) secara real-
 # Latar Belakang
 - Kecelakaan akibat mengantuk bisa dikurangi dengan model real-time.
 - TensorFlow digunakan untuk pelatihan model CNN (Convolutional Neural Network).
+![Uploading Normal.png…]()
