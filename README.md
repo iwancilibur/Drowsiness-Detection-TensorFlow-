@@ -7,4 +7,4 @@ Berikut adalah contoh program deteksi kantuk (drowsiness detection) secara real-
 - TensorFlow digunakan untuk pelatihan model CNN (Convolutional Neural Network).
 
 Tutorial Lengkap  ada di Link berikut:
-https://medium.com/@iwancilibur/mengenal-tensorflow-sejarah-pengembangan-dan-contoh-kasus-dalam-deep-learning-a631bedfdcf1
+- https://medium.com/@iwancilibur/mengenal-tensorflow-sejarah-pengembangan-dan-contoh-kasus-dalam-deep-learning-a631bedfdcf1
